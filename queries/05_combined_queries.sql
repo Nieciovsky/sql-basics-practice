@@ -4,3 +4,9 @@ FROM employees
 WHERE department = 'IT'
   AND hire_date > '2021-01-01'
 ORDER BY salary DESC;
+
+-- Average salary per department, sorted descending
+SELECT department, AVG(salary) AS avg_salary
+FROM employees
+GROUP BY department
+ORDER BY avg_salary DESC;
