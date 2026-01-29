@@ -1,4 +1,4 @@
--- AVG PRICE 
+-- AVG PRICE OF BRAND
 SELECT
     Vehicle_brand,
     ROUND(AVG(price) ,2) AS avg_price
