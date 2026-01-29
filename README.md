@@ -25,22 +25,7 @@ Example table:
 | 2   | Jan        | Nowak       | HR         | 5500   |
 | 3   | Piotr      | Zieliński   | IT         | 9500   |
 | 4   | Maria      | Wiśniewska  | Finance    | 7200   |
-| 5   | Tomasz     | Wójcik      | IT         | 8800   |
-| 6   | Katarzyna  | Kamińska    | Marketing  | 6000   |
-| 7   | Paweł      | Lewandowski | Sales      | 6500   |
-| 8   | Agnieszka  | Dąbrowska   | HR         | 5300   |
-| 9   | Michał     | Kaczmarek   | IT         | 10200  |
-| 10  | Magdalena  | Piotrowska  | Finance    | 7800   |
-| 11  | Łukasz     | Grabowski   | Sales      | 6900   |
-| 12  | Natalia    | Pawlak      | Marketing  | 6200   |
-| 13  | Rafał      | Michalski   | IT         | 9100   |
-| 14  | Monika     | Zając       | HR         | 5600   |
-| 15  | Karol      | Król        | Sales      | 7200   |
-| 16  | Ewa        | Wieczorek   | Finance    | 8300   |
-| 17  | Adam       | Jankowski   | IT         | 8700   |
-| 18  | Paulina    | Mazur       | Marketing  | 6400   |
-| 19  | Marcin     | Kubiak      | IT         | 9900   |
-| 20  | Joanna     | Sikora      | HR         | 5800   |
+|  ...  |   ...   |    ...   |    ...      |  ...  |
 
 
 ---
