@@ -5,7 +5,7 @@ Pokazać umiejętność analizy rzeczywistych danych e-commerce za pomocą SQL w
 Symulacja pracy z danymi ogłoszeniowymi podobnymi do OLX / Otomoto / Allegro.
 
 **Źródło danych**  
-Próbka ~8000 rekordów z publicznego datasetu ["Poland cars for sale" (Kaggle)](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset?resource=download)
+Próbka ~8000 rekordów z publicznego datasetu ["Poland cars for sale" (Kaggle)](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset?resource=download)<br>
 Kolumny: marka, model, cena, paliwo, skrzynia, stan itd.
 
 **Kluczowe zapytania i wnioski**
