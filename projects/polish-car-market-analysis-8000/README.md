@@ -7,7 +7,7 @@ Symulacja pracy z danymi ogłoszeniowymi podobnymi do OLX / Otomoto / Allegro.
 **Źródło danych**  
 Próbka ~8000 rekordów z publicznego datasetu ["Poland cars for sale" (Kaggle)](https://www.kaggle.com/datasets/bartoszpieniak/poland-cars-for-sale-dataset?resource=download)<br>
 
-Kolumny: <br>
+Wybrane kolumny: <br>
 
 | Index | Price | Currency | Condition | Vehicle_brand | Vehicle_model | Fuel_type | Transmission | Type |
 |-------|-------|----------|-----------|---------------|---------------|-----------|--------------|------| 
