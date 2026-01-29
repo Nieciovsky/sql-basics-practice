@@ -48,10 +48,21 @@ Example structure:
 ├─ 📄 dataset.md
 ├─ 📄 schema.sql
 └─ 📁 queries
-   ├─ 📝 query_01.sql
-   ├─ 📝 query_02.sql
-   ├─ 📝 query_03.sql
-   └─ … (other SQL practice files
+|   ├─ 📝 query_01.sql
+|   ├─ 📝 query_02.sql
+|   ├─ 📝 query_03.sql
+|   └─ … (other SQL practice files
+|
+└─📁 projects
+   ├─📁 polish-car-market-analysis-8000
+   |  ├─ 📄 README.md
+   |  ├─ 📄 schema.sql
+   |  ├─ 📄 dataset.md
+   |  └─ 📝 queries and results
+   |   
+   ├─📁 (...)
+   └─📁 (...)
+
 ```
 ---
 
