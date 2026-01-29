@@ -1,4 +1,4 @@
-# Analiza rynku samochodów używanych w Polsce (próba 8000 ogłoszeń)
+# Analiza rynku samochodów używanych w Polsce (próba 8000 ogłoszeń) *(in progress)*
 
 **Cel projektu**  
 Pokazać umiejętność analizy rzeczywistych danych e-commerce za pomocą SQL w kontekście QA / Data Testing.  
