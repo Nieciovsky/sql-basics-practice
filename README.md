@@ -52,6 +52,24 @@ Example table:
 
 ---
 
+## 📋 Sample Structure
+This repository is organized to practice different SQL concepts step by step.  
+Each file contains queries focused on a specific SQL topic or operation.
+Example structure:
+
+```
+📁 sql-basics-practice
+├─ 📄 README.md
+├─ 📄 dataset.md
+├─ 📄 schema.sql
+└─ 📁 queries
+   ├─ 📝 query_01.sql
+   ├─ 📝 query_02.sql
+   ├─ 📝 query_03.sql
+   └─ … (other SQL practice files
+```
+---
+
 ## 🛠 Tools
 - SQLite  
 - PostgreSQL  
