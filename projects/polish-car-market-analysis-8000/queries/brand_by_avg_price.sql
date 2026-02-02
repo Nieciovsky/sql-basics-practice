@@ -1,4 +1,5 @@
--- AVG PRICE OF BRAND
+-- Average price of each vehicle brand
+
 SELECT
     Vehicle_brand,
     ROUND(AVG(price) ,2) AS avg_price
