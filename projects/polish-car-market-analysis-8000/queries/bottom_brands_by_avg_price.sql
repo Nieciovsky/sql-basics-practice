@@ -2,7 +2,7 @@
 
 SELECT
     Vehicle_brand,
-    ROUND(AVG(price), 2) AS avg_price
+    ROUND(AVG(CAST(price AS REAL)),2) AS avg_price
 FROM car_data
 GROUP BY Vehicle_brand
 ORDER BY avg_price ASC
