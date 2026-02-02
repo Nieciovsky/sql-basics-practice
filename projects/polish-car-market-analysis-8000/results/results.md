@@ -4,6 +4,8 @@
 2. [Top 5 car brands by highest average price](result2)
 3. [Bottom 5 car brands by highest average price](result3)
 4. [Vehicle brands sorted alphabetically with their average price](result4)
+5. [Average car price by fuel type](result5)
+6. [Transmission type by average car price](result6)
 
 <br>
 
@@ -18,3 +20,9 @@
 
 <h3 id="result4">📈 Vehicle brands sorted alphabetically with their average price: *(10 first records visible on screenshoot* </h3>
 <img width="1870" height="618" alt="Zrzut ekranu 2026-02-02 015035" src="https://github.com/user-attachments/assets/41603b38-8868-43ce-b0f6-4888440ad9a0" />
+
+<h3 id="result5">📈 Average car price by fuel type: </h3>
+<img width="989" height="618" alt="avg_car_price_by_fuel_type" src="https://github.com/user-attachments/assets/31542ea7-5e7a-45b5-aacd-cbb45691d615" />
+
+<h3 id="result6">📈 Transmission type by average car price: </h3>
+<img width="1388" height="619" alt="Transmission type by average car price" src="https://github.com/user-attachments/assets/e3466840-1cd7-476f-be2e-833d9d99d5e6" />
