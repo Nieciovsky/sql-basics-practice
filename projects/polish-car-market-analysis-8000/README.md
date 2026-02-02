@@ -27,5 +27,5 @@ Sample of 200,000+ records from the public dataset ["Poland cars for sale" (Kagg
 
 ## 🛠 Tools
 - **SQLite**  
-- **DB Browser for SQLite** / [sqliteonline.com](https://sqliteonline.com/)  
+- **DB Browser for SQLite** / [https://dumbmatter.com/csv-sql-live/](https://dumbmatter.com/csv-sql-live/))  
 - Export query results as **PNG** for visual presentation
