@@ -1,4 +1,6 @@
-<h1>📚 Scope of Contents</h1>
+<h1 align="center">💡 Insights / Results </h1><br>
+
+<h2>📚 Scope of Contents</h2>
 
 1. [Top 10 best selling vehicle brands with their average price](#result1)
 2. [Top 5 car brands by highest average price](result2)
