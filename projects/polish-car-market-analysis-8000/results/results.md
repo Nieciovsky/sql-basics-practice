@@ -20,7 +20,7 @@
 <h3 id="result3">📈 Bottom 5 car brands by highest average price: </h3>
 <img width="1247" height="406" alt="Zrzut ekranu 2026-01-29 210600" src="https://github.com/user-attachments/assets/8c20a287-5ec2-479e-8674-10494fef7e74" /><br>
 
-<h3 id="result4">📈 Vehicle brands sorted alphabetically with their average price: *(10 first records visible on screenshoot* </h3>
+<h3 id="result4">📈 Vehicle brands sorted alphabetically with their average price: <i>(10 first records visible on screenshoot)</i></h3>
 <img width="1870" height="618" alt="Zrzut ekranu 2026-02-02 015035" src="https://github.com/user-attachments/assets/41603b38-8868-43ce-b0f6-4888440ad9a0" /><br>
 
 <h3 id="result5">📈 Average car price by fuel type: </h3>
