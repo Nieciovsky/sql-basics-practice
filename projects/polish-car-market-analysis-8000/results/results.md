@@ -2,19 +2,19 @@
 
 <h2>📚 Scope of Contents</h2>
 
-1. [Top 10 best selling vehicle brands with their average price](#result-1)
-2. [Top 5 car brands by highest average price](result-2)
-3. [Bottom 5 car brands by highest average price](result3)
-4. [Vehicle brands sorted alphabetically with their average price](result4)
-5. [Average car price by fuel type](result5)
-6. [Transmission type by average car price](result6)
+1. [Top 10 best selling vehicle brands with their average price](#result1)
+2. [Top 5 car brands by highest average price](#result2)
+3. [Bottom 5 car brands by highest average price](#result3)
+4. [Vehicle brands sorted alphabetically with their average price](#result4)
+5. [Average car price by fuel type](#result5)
+6. [Transmission type by average car price](#result6)
 
 <br>
 
-<h3 id="result-1">📈 Top 10 best-selling vehicle brands with their average price: </h3>
+<h3 id="result1">📈 Top 10 best-selling vehicle brands with their average price: </h3>
 <img width="1245" height="625" alt="Zrzut ekranu 2026-01-29 211242" src="https://github.com/user-attachments/assets/38add07d-1d27-4577-b404-c3493ef99bdb" /><br>
 
-<h3 id="result-2">📈 Top 5 car brands by highest average price: </h3>
+<h3 id="result2">📈 Top 5 car brands by highest average price: </h3>
 <img width="1246" height="411" alt="Zrzut ekranu 2026-01-29 210531" src="https://github.com/user-attachments/assets/30c002ad-a9cd-4d66-8848-b03563cc169b" /><br>
 
 <h3 id="result3">📈 Bottom 5 car brands by highest average price: </h3>
