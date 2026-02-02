@@ -18,7 +18,7 @@ Next steps: more complex joins/window functions, PostgreSQL/MySQL differences, f
 ├── 📁 practise_queries/             # simple standalone exercises
 │    ├── 📄 README.md
 │    ├── 📝 schema.sql
-│    ├── 📊 dataset.md
+│    ├── 📊 dataset.csv
 │    └── 📁 queries/
 ├── 📁 projects/                     # mini-analysis projects with real datasets
 │   ├── 📁 polish-car-market-analysis-8000/
