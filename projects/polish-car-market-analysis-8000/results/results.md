@@ -30,7 +30,9 @@
 <h3 id="result6">📈 Transmission type by average car price: </h3>
 <img width="1388" height="619" alt="Transmission type by average car price" src="https://github.com/user-attachments/assets/e3466840-1cd7-476f-be2e-833d9d99d5e6" />
 
-<h3 id="result7">Identification of unusually low-priced listings (potential data errors or outliers):</h3>
+<h3 id="result7">📈Identification of unusually low-priced listings (potential data errors or outliers):</h3>
+<blockquote>⚠️ <b>Note:</b> Identified listings marked as New with prices below 3000 PLN.<br>
+Such records are <b>highly unlikely and may indicate data errors</b>, incomplete listings, or incorrect condition labels.</blockquote>
 <img width="1388" height="619" alt="dumbmatter com_csv-sql-live_ (4)" src="https://github.com/user-attachments/assets/f2d2d460-1ec5-478a-a275-0069e69fe746" />
 
 
