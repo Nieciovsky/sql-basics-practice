@@ -43,7 +43,7 @@ Such records are <b>highly unlikely and may indicate data errors</b>, incomplete
 **Results:**  
 - Manual: 35,670.50 PLN  
 - Automatic: 116,603.54 PLN
-- 
+
 **Insight:**  
 Automatic Volvos are significantly more expensive than manual ones, with an average price difference of ~80,933 PLN.
 
